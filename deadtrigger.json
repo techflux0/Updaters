@@ -5,9 +5,7 @@
   "update_title": "New Update Available!",
   "changelog": [
     "Improved UI performance and animations",
-    "Added dark mode toggle",
-    "Fixed bugs in login screen",
-    "Optimized network usage for better speed"
+    "Tried to unlock skins"
   ],
   "update_required": true,
   "download_url": "https://youtu.be/Lts8lqUrXw4",
